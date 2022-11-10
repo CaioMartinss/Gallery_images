@@ -40,6 +40,8 @@
 - Extensão(s):
   - `live server` <br><br>
     [![Image ](https://www.barajacoding.or.id/wp-content/uploads/2020/11/image-7-300x123.png  "Extensão: live server")](https://github.com/CaioMartinss/landin-page--mon/blob/main/instru%C3%A7%C3%B5es.md)
+  - `JSX HTML <tags/>` <br></br>
+     [![Image ](https://angelorafael.gallerycdn.vsassets.io/extensions/angelorafael/jsx-html-tags/1.0.0/1592096709650/Microsoft.VisualStudio.Services.Icons.Default "Extensão: live server")](https://github.com/CaioMartinss/landin-page--mon/blob/main/instru%C3%A7%C3%B5es.md)
     
    
   
