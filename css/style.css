@@ -1,0 +1,84 @@
+:root {
+    --color-primary: rgb(5, 12, 16);
+    --color-secondary: rgb(11, 30, 46);
+
+    --color-white: rgba(255, 255, 255, 0.9);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+.favicon {
+    width: 16px;
+    height: 16px;
+}
+
+body {
+    background-color: var(--color-primary);
+    color: var(--color-white);
+    font-family: 'Roboto', sans-serif;
+}
+
+main .pesquisa-imagem {
+    margin-left: 42%;
+    margin-top: 60px;
+    margin-bottom: 10px;
+    font-size: 26px;
+
+}
+
+main input {
+    width: 300px;
+    height: 32px;
+    margin-left: 40%;
+    margin-top: 10px;
+    margin-bottom: 50px;
+
+}
+
+main .container {
+    justify-content: center;
+    align-items: center;
+}
+
+.container .cards {
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap: 10px;
+    margin-bottom: 30px;
+    color: black;
+}
+
+.container .cards .imagem {
+    background-color: var(--color-white);
+    border-radius: 10px;
+    border: 2px solid var(--color-white);
+}
+
+.container .cards .imagem img {
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 320px;
+    height: 250px;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 12px;
+    box-shadow: 5px 5px 5px 5px rgba(26, 25, 25, 0.75);
+
+}
+
+.container .cards .imagem img:hover {
+    transform: scale(1.1);
+    transition: 1s;
+    cursor: pointer;
+}
+
+.container .cards h3 {
+    margin-left: 38%;
+
+}
