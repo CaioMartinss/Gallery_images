@@ -1,3 +1,5 @@
+# 🐵 Just a landing page gallery
+
 ## 💻 About the project
 
 💬 The landing page project was developed as an extension project during the scholarship monitoring program at UEPA (University of Pará state) in 2022. This project aimed to create a user-friendly gallery featuring a collection of photos, allowing users to easily filter and select their desired images. The project specifically catered to local high school students.
