@@ -11,3 +11,8 @@
 <img src="https://media.tenor.com/r6P4YrucoTsAAAAC/yes-jim.gif" alt="Dwight happy" style="height: 100px; width: 170px; border-radius: 10px;">
   
 </div>
+
+
+ ## 📝 Licença
+
+Este projeto esta sobe a licença [MIT](./LICENCE).
