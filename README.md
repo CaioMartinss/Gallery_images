@@ -15,4 +15,4 @@
 
  ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT] (./LICENCE).
+Este projeto esta sobe a licença [MIT](./LICENCE).
